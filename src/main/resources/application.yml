@@ -1,0 +1,8 @@
+#server:
+#  port: 8099
+#
+#test:
+#  mongo:
+#    addrress: 10.0.101
+#    name: cccccc
+#    paswe: ${test.mongo.name} address is ${test.mongo.addrress}
